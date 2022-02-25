@@ -1,0 +1,14 @@
+BOM
+##################
+
+Arduino Nano 33 IoT : x2
+Batterie Lipo 11.1V 3S : x 1
+Batterie lipo 3.3V 1S : x1
+Connecteur Lipo 11.1V (Femelle):  x1
+Connecteur Batterie lipo 3.3V (Mâle+Femelle): x1
+Connecteur JST 2 Pin Batterie - Arduino (Mâle+Femelle): x2
+Connecteur JST 2 Pin Joystick - Arduino (Mâle+Femelle): x1
+Connecteur JST 4 Pin Ardumoto-Arduino : (Mâle+Femelle) : x1
+Moteur chinois jaunes : x2
+Sparkfun Ardumoto ou identique (L298N) : x1
+Joystick : x1
