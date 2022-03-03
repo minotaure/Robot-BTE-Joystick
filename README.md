@@ -1,6 +1,7 @@
 # Robot-BTE-Joystick
-Robot découverte pour l'Ecole des Mines de Paris et classes de 3ème
+Robot Mélia de découverte pour l'Ecole des Mines de Paris et classes de 3ème
 
-Participants au projet :
-Maxime
-Villafruela Naimeric
+Participants au projet (ordre alphabétique):
+Maxime CHUREAU
+Remy MARTINEZ
+Naimeric VILLAFRUELA
