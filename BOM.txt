@@ -18,16 +18,22 @@ BOM pour la version Robot + Nano RP2040
 ##################
 
 Arduino Nano RP2040 : x1
-Batterie 9V 6lr61 + connecteur 9V ou Bloc Piles AA avec connecteur 9V : x1
+Batterie 9V 6lr61 ou Bloc Piles AA (sortie connecteur 9V) : x1
+Connecteur 9V : x1
 Connecteur JST SM 2 broches : x3
 Connecteurs JST Femelle (pour brancher Arduino) : 2 x barres de 15 broches
 Connecteurs JST Femelle (pour brancher hasheur) : 1 x barres de 6 broches
-Piece STL pour fixer nano RP2040
 Moteur chinois jaunes : x2
 Roues : x2
-Sparkfun Ardumoto ou identique (L298N) : x1
-Cable ¨¦lectrique 1.5mm2 si possible de couleurs diff¨¦rentes
+Carte driver moteurs 2 canaux (L9110S Kitronik) : x1
 Vis CHC-M3-25 : x8 (moteur + plaque support breadboard)
 Vis CHC-M3-40 : x2 (boule)
 Vis CHC-M2-15 : x4 (hasheur)
+Ecrous M3 : x10
+Ecrous M2 : x4
+Bille Porteuse : x1
+
 Velcro autocollant
+Cable ¨¦lectrique 1.5mm2 si possible de couleurs diff¨¦rentes
+Piece STL pour fixer nano RP2040
+(Contreplaqué 5mm)
