@@ -27,9 +27,10 @@ Moteur chinois jaunes : x2
 Roues : x2
 Carte driver moteurs 2 canaux (L9110S Kitronik) : x1
 Vis CHC-M3-25 : x8 (moteur + plaque support breadboard)
-Vis CHC-M3-40 : x2 (boule)
+Vis CHC-M4-40 : x2 (boule)
 Vis CHC-M2-15 : x4 (hasheur)
-Ecrous M3 : x10
+Ecrous M3 : x8
+Ecrous M4 : x2
 Ecrous M2 : x4
 Bille Porteuse : x1
 
