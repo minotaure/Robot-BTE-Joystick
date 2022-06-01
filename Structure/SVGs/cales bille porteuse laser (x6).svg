@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="cales bille porteuse laser (x6).svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="552.96536"
+     inkscape:cy="531.53795"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2121">
+      <rect
+         style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0846336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect852"
+         width="39.915367"
+         height="59.915367"
+         x="100.04232"
+         y="100.04232" />
+      <ellipse
+         style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0875904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2014"
+         cx="120"
+         cy="110"
+         rx="2.4562049"
+         ry="2.4562047" />
+      <ellipse
+         style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0875904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2014-1"
+         cx="120"
+         cy="150"
+         rx="2.4562049"
+         ry="2.4562047" />
+    </g>
+  </g>
+</svg>
