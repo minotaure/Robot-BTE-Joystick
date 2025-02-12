@@ -100,24 +100,24 @@ void loop() {
   if (execution_count == 0){
     // Exercice 1
 
-    // SetMotorsVelocity(255, 255);  // On fait tourner les moteurs à pleine puissance
-    // delay(10000);  // On attend 10 sec
-    // SetMotorsVelocity(0, 0);  // On arrête les moteurs
-    // execution_count = 1;
+    SetMotorsVelocity(255, 255);  // On fait tourner les moteurs à pleine puissance
+    delay(10000);  // On attend 10 sec
+    SetMotorsVelocity(0, 0);  // On arrête les moteurs
+    execution_count = 1;
 
     // Exercice 2
 
     // **** à compléter ****
 
-    auto v =0.9/2;
-    auto b = v/0.0024;
+    // auto v =
+    // auto b =
 
     // ****
 
-    SetMotorsVelocity(b, b);
-    delay(8000);
-    SetMotorsVelocity(0, 0);
-    execution_count = 1;
+    // SetMotorsVelocity(b, b);
+    // delay(8000);
+    // SetMotorsVelocity(0, 0);
+    // execution_count = 1;
 
     // Exercice 3
 
@@ -141,8 +141,8 @@ void loop() {
       // delay(10);
     // }
 
-    SetMotorsVelocity(0, 0);
-    execution_count = 1;
+    // SetMotorsVelocity(0, 0);
+    // execution_count = 1;
   }
 }
 
