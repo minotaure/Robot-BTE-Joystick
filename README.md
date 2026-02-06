@@ -18,6 +18,7 @@ Naimeric VILLAFRUELA
 - robot-version-BT (contient la bersion Bluetooth)
     - Code (contient le code pour le robot et la télécomande)
     - Electronique (contient le schéma fritzing et un jpg du schéma)
+
 [Attention : La version robot-version-BT n'est pas complètement fonctionnelle. Seule la version contenue dans robot-v-finale est fonctionnelle]
     
 - robot-version-wifi (contient la version Wifi)
